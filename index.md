@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+**Privacy Policy**
 
-You can use the [editor on GitHub](https://github.com/kmooty/MyHealthKeeper/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MyHealthKeeper was built by Amrit Misra as a free application. This service is provided by Amrit Misra at no cost and is intended for use as is.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use this service.
 
-### Markdown
+If you choose to use my service, then you agree to the collection and use of information in relation to this policy. No personal information is collected by the application for the developers. The application only collects data within the app, and has no internet connection to any type of database whatsoever.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Information Collection and Use**
 
-```markdown
-Syntax highlighted code block
+The MyHealthKeeper application is meant to collect health information. All of this information is stored into the application’s database, contained on the phone. There is no internet connection whatsoever to transmit or receive data. All user data is property of the user alone.
 
-# Header 1
-## Header 2
-### Header 3
+**Security**
 
-- Bulleted
-- List
+The application uses an encrypted database to protect the user’s data. This data is the responsibility of the user, and the MyHealthKeeper developers take no responsibility for any decisions users make with this data. The application features the ability to Import and Export a copy of the user’s database. This feature exports an encrypted copy of the database, but as stated prior, it is still the user’s responsibility.
 
-1. Numbered
-2. List
+**Links to Other Sites**
 
-**Bold** and _Italic_ and `Code` text
+MyHealthKeeper may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by the developer. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-[Link](url) and ![Image](src)
-```
+**Changes to This Privacy Policy**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmooty/MyHealthKeeper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
